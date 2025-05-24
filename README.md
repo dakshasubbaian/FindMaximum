@@ -14,7 +14,7 @@ i)	# To find the maximum of marks using the list method sort.
 ```
 #Program to mark the maximum of marks using the list method sort
 #Developed by:Daksha Subbaian
-#RegisterNumber:23003584
+#RegisterNumber:212223230036
 def max_marks(marks):
     marks.sort()
     return marks[-1]
@@ -24,7 +24,7 @@ ii)	# To find the maximum marks using the list method max().
 ```
 #Program to find the maximum marks using the list method max().
 #Developed by:Daksha Subbaian
-#RegisterNumber:23003584
+#RegisterNumber:212223230036
 def max_marks(marks):
     n=max(marks)
     return n
@@ -34,7 +34,8 @@ iii) # To find the maximum marks without using builtin functions.
 ```
 #Program to the maximum marks without using builtin functions.
 #Developed by:Daksha Subbaian
-#RegisterNumber:23003584def max_marks(list1):
+#RegisterNumber:212223230036
+def max_marks(list1):
     max=list1[0]
     for i in list1:
         if i>max:
