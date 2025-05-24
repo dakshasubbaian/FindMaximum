@@ -43,8 +43,9 @@ def max_marks(list1):
     return max
 ```
 ## OUTPUT:
-![output](/output3a\)1..png)
-![output](/output3a\)2..png)
-![output](/output3a\)3..png)
+![image](https://github.com/user-attachments/assets/97053e5c-0037-4579-997c-87f0c6d47dd0)
+![image](https://github.com/user-attachments/assets/a77809bb-0fd3-420e-a474-9d79a8c7c0c4)
+![image](https://github.com/user-attachments/assets/96ad1a89-f5ad-4b8c-b3dc-49c9533c097b)
+
 ## RESULT:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
