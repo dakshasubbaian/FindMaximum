@@ -43,9 +43,10 @@ def max_marks(list1):
     return max
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/97053e5c-0037-4579-997c-87f0c6d47dd0)
-![image](https://github.com/user-attachments/assets/a77809bb-0fd3-420e-a474-9d79a8c7c0c4)
-![image](https://github.com/user-attachments/assets/96ad1a89-f5ad-4b8c-b3dc-49c9533c097b)
+![image](https://github.com/user-attachments/assets/01bb9574-3336-4b92-9557-b779b5fa3504)
+![image](https://github.com/user-attachments/assets/e3ea51ac-158c-45b2-a389-c72b23454123)
+![image](https://github.com/user-attachments/assets/a427c14e-89a5-4c0c-906a-805965f07765)
+
 
 ## RESULT:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
